@@ -1,0 +1,21 @@
+.word-audio{
+    margin: 20px 10px 20px 0;
+    display: flex;
+    justify-content: space-between;
+}
+.word-audio h2{
+    font-size: 30px;
+}
+.audio{
+    font-size: 30px;
+    cursor: pointer;
+}
+.audio:hover{
+    color: #d738ef;
+}
+.desc{
+    margin-top: 10px;
+}
+#partOfSpeech{
+    font-size: 15px;
+}
